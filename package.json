@@ -2,6 +2,26 @@
   "dependencies": {
     "crypt-js": "^1.0.4",
     "crypto-js": "^4.2.0",
-    "express": "^5.3.0"
-  }
+    "express": "^5.3.0",
+    "hls.js": "^1.7.4",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  },
+  "name": "dumpapk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdaad/Dumpspke9rn.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mdaad/Dumpspke9rn/issues"
+  },
+  "homepage": "https://github.com/mdaad/Dumpspke9rn#readme"
 }
